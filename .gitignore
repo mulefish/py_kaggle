@@ -1,5 +1,13 @@
 gan-getting-started.zip
 pyproject.toml
+a.py
+z.py 
+y.py 
+x.py 
+hello.py
+data 
+example.*
+example2
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

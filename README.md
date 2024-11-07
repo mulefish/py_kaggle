@@ -21,4 +21,8 @@ Checkout this tutorial: https://www.kaggle.com/code/amyjang/monet-cyclegan-tutor
 # ENV:
 uv  
 python 3.12.6    
+# before Money
+![Before](./before.png)
 
+# after Monet
+![after](./after.png)
